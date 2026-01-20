@@ -1,6 +1,5 @@
 package com.matheus.springai.controllers;
 
-import org.apache.coyote.Response;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.http.ResponseEntity;
